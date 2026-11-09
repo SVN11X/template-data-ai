@@ -1,0 +1,15 @@
+# standard
+.standards/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+mlruns/
+.dvc/cache/
+data/private/
