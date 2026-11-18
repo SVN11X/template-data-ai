@@ -1,0 +1,26 @@
+# Identity of this repository for the standard.
+# After editing, run: python .standards/scripts/standard.py agents .
+standard: SVN11X/standards@v1
+owner: SVN11X
+name: CHANGE-ME
+profile: data-ai
+setup: pending
+license: MIT
+content_language: en
+github:
+  description: ''
+  homepage: ''
+  topics:
+  - data
+options:
+  kind: pipeline
+  platform: local
+  personal_data: none
+parts: {}
+part_options: {}
+extra_folders: {}
+skills:
+- repo-improve
+- code-review
+- tool-radar
+- antislop-code
